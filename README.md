@@ -2,7 +2,7 @@
 
 **Punya panel SMM sendiri: brand, domain, dan harga kamu yang atur.** Server, katalog layanan, dan pemrosesan order diurus [fom.co.id](https://fom.co.id). Kamu tinggal jualan.
 
-🇬🇧 [English](README.en.md) · 💰 [Lihat harga](https://fom.co.id/#harga) · 🚀 [Daftar gratis](https://fom.co.id)
+🇬🇧 [English](README.en.md) · 💰 [Lihat harga](https://fom.co.id/#harga) · 🚀 [Daftar gratis](https://fom.co.id/reg)
 
 ## Pilih paket
 
@@ -35,12 +35,12 @@ Harga terbaru selalu ada di [fom.co.id/#harga](https://fom.co.id/#harga). Tidak 
 
 ## Cara mulai
 
-1. Daftar gratis di [fom.co.id](https://fom.co.id).
+1. Daftar gratis di [fom.co.id](https://fom.co.id/reg).
 2. Pilih paket Childpanel atau Panel Elite dari dashboard.
 3. Pasang subdomain atau domainmu, atur logo, warna, dan markup.
 4. Bagikan link panelmu ke pelanggan.
 
-Mau lihat dulu? Coba [demo panel](https://fom.co.id/#demo).
+Mau lihat dulu? Coba [demo panel](https://order.fom.co.id/order).
 
 ## Sudah punya panel? Pakai API-Only
 
