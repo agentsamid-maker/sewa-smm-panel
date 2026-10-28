@@ -2,7 +2,7 @@
 
 **Run your own SMM panel: your brand, your domain, your prices.** [fom.co.id](https://fom.co.id/en) runs the servers, service catalog and order processing. You just sell.
 
-🇮🇩 [Bahasa Indonesia](README.md) · 💰 [Pricing](https://fom.co.id/en#harga) · 🚀 [Sign up free](https://fom.co.id/en)
+🇮🇩 [Bahasa Indonesia](README.md) · 💰 [Pricing](https://fom.co.id/en#harga) · 🚀 [Sign up free](https://fom.co.id/reg)
 
 ## Choose a plan
 
@@ -35,12 +35,12 @@ Current prices are always on [fom.co.id/en#harga](https://fom.co.id/en#harga). N
 
 ## Getting started
 
-1. Sign up free at [fom.co.id](https://fom.co.id/en).
+1. Sign up free at [fom.co.id](https://fom.co.id/reg).
 2. Pick the Childpanel or Panel Elite plan in your dashboard.
 3. Connect a subdomain or your own domain, then set your logo, colors and markup.
 4. Share your panel link with your customers.
 
-Want a look first? Try the [panel demo](https://fom.co.id/en#demo).
+Want a look first? Try the [panel demo](https://order.fom.co.id/order).
 
 ## Already have a panel? Use API-Only
 
